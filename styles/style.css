@@ -73,6 +73,42 @@
     height: 24px;
 }
 
+/* Motivate list styles */
+
+.mot-description {
+    text-align: center;
+    margin: 30px 200px;
+}
+
+.motivate-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 90px;
+    text-align: center;
+    margin: 100px 180px;
+    padding-bottom: 40px;
+
+}
+
+.motivate-list img {
+    padding: 20px 30px;
+    width: 180px;
+    height: 200px;
+}
+
+div.mot-no1 {
+    background: rgba(79, 157, 166, 0.1);
+}
+
+div.mot-no2 {
+    background: rgba(255, 89, 89, 0.1);
+}
+
+div.mot-no3 {
+    background: #FFF4D6;
+}
+
+
 /* Plan section styles */
 .plan-head {
     margin-bottom: 55px;
