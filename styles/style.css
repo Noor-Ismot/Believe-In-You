@@ -61,6 +61,7 @@
     color: #151414;
 }
 
+
 .failure-description {
     color: #444343;
     margin-top: 24px;
@@ -112,6 +113,31 @@
     padding-right: 40px;
 }
 
+
+/* Small banner styles */
+.small-banner {
+
+    background-image: linear-gradient(to right, #F15B22, #ffffff00),
+        url("../images/watch.png");
+    height: 300px;
+    margin-left: 294px;
+    margin-right: 294px;
+    margin-bottom: 130px;
+    max-width: 1140px;
+    padding-left: 64px;
+    border-radius: 8px;
+}
+
+.small-banner-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #ffffff;
+    padding-top: 60px;
+    padding-bottom: 24px;
+    text-align: left;
+}
+
+
 /* footer Styles */
 
 footer {
@@ -162,4 +188,6 @@ input {
     color: #F15B22;
     border-radius: 5px;
     padding: 20px 40px;
+    border: 0;
+
 }
