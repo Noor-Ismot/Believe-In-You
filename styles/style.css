@@ -5,8 +5,6 @@
 
 /* Banner Styles */
 .banner {
-
-    height: 808px;
     background-image: url('../images/banner/banner1.png');
     background-size: cover;
     background-repeat: no-repeat;
